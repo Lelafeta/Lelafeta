@@ -1,5 +1,8 @@
-## 👩🏻‍💻 Letícia Lafetá
+## 👩🏻‍💻 Letícia Lafetá Naves
 
-**`EStudante de Engenharia de Software`**
+**`Software Engineer student`**
 
-Me chamo Letícia Lafetá, tenho 21 anos e resido em Brasília. Atualmente, estou cursando Engenharia de Software no Centro Universitário de Brasília (CEUB). Sou muito curiosa pelo universo da programação. Aqui é o meu espaço digital, onde compartilho os meus projetos.
+Welcome to my GitHub profile! My name is Leticia Naves and I'm a freshman in the University Center of Brasilia's Software Engineer course. 
+I am a very curious soul diving into the programming universe.
+Currently, I'm learning Python, Html, PostgreSQL usage and Cybersecurity!
+To conclude, I hope you'll enjoy it!
